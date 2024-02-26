@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Ld0iviZSRGAKK6WSoti+3++1RmY=",
+			"path": "golang.org/x/sys/internal/unsafeheader",
+			"revision": "e5e7981a10699f0af2ffea4c0e0f542e447b2e4a",
+			"revisionTime": "2021-08-06T12:01:12Z"
+		},
+		{
+			"checksumSHA1": "0k14gCDH4sDSoCSSuZlgicSbCaA=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "e5e7981a10699f0af2ffea4c0e0f542e447b2e4a",
+			"revisionTime": "2021-08-06T12:01:12Z"
+		}
+	],
+	"rootPath": "rungopher"
+}
